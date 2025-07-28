@@ -1,10 +1,10 @@
 # GEOSPATIAL-PROJECT
 
-## 🚀 SpaceX Launch Site Location Analysis with Folium
+## SpaceX Launch Site Location Analysis with Folium
 
 This project is part of a geospatial data analysis exercise using the Folium library in Python. It focuses on visualizing SpaceX launch sites and their proximity to key infrastructure like cities, highways, coastlines, and railways.
 
-### 📍 Objectives
+###  Objectives
 
 * Plot all known SpaceX launch sites on an interactive Folium map.
 * Color-code markers based on launch success/failure.
@@ -14,7 +14,7 @@ This project is part of a geospatial data analysis exercise using the Folium lib
 
 ---
 
-### 📂 Project Files
+### Project Files
 
 | File Name                                            | Description                                                                |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@ This project is part of a geospatial data analysis exercise using the Folium lib
 
 ---
 
-### 🗺️ Key Features
+###  Key Features
 
 * **Launch Site Markers**: Interactive markers for all launch sites.
 * **Success/Failure Icons**: Green = success, Red = failure.
@@ -33,7 +33,7 @@ This project is part of a geospatial data analysis exercise using the Folium lib
 
 ---
 
-### 📊 Insights Answered
+### Insights Answered
 
 * Are launch sites in close proximity to railways?
 * Are launch sites near coastlines or highways?
@@ -42,28 +42,24 @@ This project is part of a geospatial data analysis exercise using the Folium lib
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Python 3.12+**
 * **Folium**
 * **Pandas**
 * **Geopy**
-* **Google Colab** (fully compatible)
+* **Google Colab** 
 
 ---
 
-### 📦 How to Run
+###  How to Run
 
 1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/).
 2. Ensure required libraries are installed
 3. Run all cells from top to bottom.
 4. Interact with the maps and explore the results.
 
----
 
-### 🔗 GitHub Repository
-
----
 
 ### 🙌 Author
 
