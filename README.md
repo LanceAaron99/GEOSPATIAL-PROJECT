@@ -55,11 +55,7 @@ This project is part of a geospatial data analysis exercise using the Folium lib
 ### 📦 How to Run
 
 1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/).
-2. Ensure required libraries are installed:
-
-   ```python
-   !pip install folium geopy
-   ```
+2. Ensure required libraries are installed
 3. Run all cells from top to bottom.
 4. Interact with the maps and explore the results.
 
